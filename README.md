@@ -25,7 +25,7 @@
 ---
 ---<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-## ☠️ Cybersecurity Enthusiast | Ethical Hacker
+## Penetration Tester | Ethical Hacker
 
 ---
 
